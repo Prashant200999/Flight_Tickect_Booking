@@ -1,0 +1,26 @@
+#logo {
+    height: 70px;
+    width: 70px;
+  }
+ .imgwidth_100 {
+    width: 100%;
+}
+
+.img_height {
+    height: 90%;
+}
+
+.carvisibility {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
+.bg_image{
+    background: url('img1.jpg') center/cover fixed;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
